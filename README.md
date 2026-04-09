@@ -46,7 +46,7 @@ The goal of this project is to help a fictional recruitment company **DataSearch
 
 ---
 
-### 3. Salary Insights ⚠️
+### 3. Salary Insights
 - Over **90% of salary values are missing**
 - Due to this:
   - Salary-based conclusions are **not reliable**
