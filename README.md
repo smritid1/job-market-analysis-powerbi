@@ -3,11 +3,11 @@
 ## Project Overview
 This project analyzes a **data science job postings dataset** to uncover key insights about job demand, required skills, salary trends, and hiring companies.
 
-The goal of this project is to help a fictional recruitment company **DataSearch** understand job market trends and make better hiring recommendations.
+The goal of this project is to help a fictional recruitment company **DataSearch** understand job market trends and make better hiring recommendation
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze job posting trends over time
 - Identify most in-demand job roles
 - Discover top skills required for each role
@@ -16,7 +16,7 @@ The goal of this project is to help a fictional recruitment company **DataSearch
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 - Handled missing values using **Power Query**
 - Identified that:
   - ❗ **~92% of salary data (Min & Max Pay) is missing**
@@ -24,11 +24,10 @@ The goal of this project is to help a fictional recruitment company **DataSearch
   - Date columns
   - Job titles
   - Skills columns
-- Removed inconsistencies and null-heavy fields where necessary
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 ### 1. Job Posting Trends
 - Job postings show an **overall upward trend over time**
@@ -83,40 +82,14 @@ The goal of this project is to help a fictional recruitment company **DataSearch
 
 ### 7. Role Comparison
 - The role most similar to a Data Analyst:
-  - ✅ **Business Analyst**
+  - **Business Analyst**
 - Similarity based on:
   - Skill type
   - Skill count
 
 ---
 
-## 📊 Dashboard Features
-
-### 🔹 Job Dashboard
-- Job trends over time
-- Role distribution
-- Experience level insights
-
-### 🔹 Skills Dashboard
-- Top skills by role
-- Skill demand trends
-- Skill-role relationships
-
-### 🔹 Company Dashboard
-- Top hiring companies
-- Industry demand
-- Job level distribution
-
-### 🔹 Interactivity
-- Slicers for:
-  - Job role
-  - Industry
-  - Experience level
-- Drill-down capabilities for deeper insights
-
----
-
-## 💡 Recommendations
+## Recommendations
 
 ### 1. Focus on High-Demand Roles
 - Prioritize recruiting for:
